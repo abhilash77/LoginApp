@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_btn_label">login</string>
+    <string name="signup_text">New User ?  SignUp</string>
+    <string name="prompt_name">Name</string>
+
+    <string name="prompt_con_password">Confirm Password</string>
+    <string name="reg_btn_label">Register</string>
+
+</resources>
